@@ -180,7 +180,7 @@ function redrawMap() {
     }
 }
 
-// Draw a marker on the map
+// Draw a marker on the map ...
 function drawMarker(x, y, color, label) {
     ctx.fillStyle = color;
     ctx.beginPath();
