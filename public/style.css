@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.map-container {
+    position: relative;
+    margin: 20px auto;
+}
+
+canvas {
+    border: 1px solid #000;
+}
